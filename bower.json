@@ -1,0 +1,11 @@
+{
+  "name": "leaflet-storage-tilelayer#gh-pages",
+  "private": true,
+  "resolutions": {
+    "polymer": "master",
+    "platform": "master"
+  },
+  "dependencies": {
+    "leaflet-storage-tilelayer": "BlackhawkWebComponents/leaflet-storage-tilelayer#master"
+  }
+}

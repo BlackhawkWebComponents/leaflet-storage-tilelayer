@@ -1,0 +1,38 @@
+{
+  "name": "leaflet-storage-tilelayer",
+  "homepage": "http://blackhawkwebcomponents.github.io/leaflet-storage-tilelayer",
+  "description": "",
+  "main": "leaflet-storage-tilelayer.html",
+  "authors": [
+    "Rob Beers"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "../"
+  ],
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "tile-storage": "BlackhawkWebComponents/tile-storage",
+    "leaflet-map": "nhnb/leaflet-map#master"
+  },
+  "_release": "41a128c010",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "41a128c01076c9fb16d8da986b09d85831244a3e"
+  },
+  "_source": "git://github.com/BlackhawkWebComponents/leaflet-storage-tilelayer.git",
+  "_target": "master",
+  "_originalSource": "BlackhawkWebComponents/leaflet-storage-tilelayer",
+  "_direct": true
+}
