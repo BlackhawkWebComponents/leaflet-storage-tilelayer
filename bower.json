@@ -22,8 +22,8 @@
         "polymer"
     ],
     "dependencies": {
-        "polymer": "Polymer/polymer#^0.4.0",
+        "polymer": "Polymer/polymer#^0.5.2",
         "tile-storage":"BlackhawkWebComponents/tile-storage",
-        "leaflet-map": "nhnb/leaflet-map#master"
+        "leaflet-map": "BlackhawkWebComponents/leaflet-map#master"
     }
 }
